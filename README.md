@@ -15,7 +15,7 @@ Penggunaan...
 
 ```
 
-import { isProvider } from 'validasi-provider';
+import isProvider from 'validasi-provider';
 
 isProvider("0851********")
 
