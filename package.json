@@ -1,0 +1,22 @@
+{
+  "name": "validasi-provider",
+  "version": "1.0.0",
+  "description": "validasi nomor telpon indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokorame-Dev/validasiProvide.git"
+  },
+  "keywords": [
+    "validasi"
+  ],
+  "author": "tokorame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokorame-Dev/validasiProvide/issues"
+  },
+  "homepage": "https://github.com/Tokorame-Dev/validasiProvide#readme"
+}
