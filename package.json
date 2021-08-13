@@ -4,7 +4,7 @@
   "description": "validasi nomor telpon indonesia",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Tokorame-Dev/validasiProvide/issues"
   },
-  "homepage": "https://github.com/Tokorame-Dev/validasiProvide#readme"
+  "homepage": "https://github.com/Tokorame-Dev/validasiProvide#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  }
 }

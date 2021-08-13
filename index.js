@@ -60,5 +60,4 @@ function isProvider(val) {
   return provide;
 }
 
-module.exports = isProvider
-
+module.exports = isProvider;
